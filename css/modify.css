@@ -1,0 +1,16 @@
+.navbar .nav {
+  
+  float: right;
+  margin: 0 10px 0 0;
+}
+.thumbnail{
+	border:none;
+
+}
+.thumbnails {
+  margin-left: 0;
+  list-style: none;
+  text-align: left;
+  width: 100%;
+
+}

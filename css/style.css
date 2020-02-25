@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #373737;
+}
+nav {
+	background-color: #ccc;	
+}
+nav div div{
+	font-size: 30px;
+	float: left;
+}
+.cover img{
+	margin-top: 20px;
+	clear: both;
+	width: 100%;
+	height: 400px;
+}
+
+
+li{
+	color: #fff;
+}
+h3{
+	background: #303030;
+}
+footer p {
+	color: #fff;
+}
